@@ -8,8 +8,6 @@ categories: ["meetup"]
 date: 2022-03-28
 ---
 
-
-
 ## INTRO
 
 Hi everyone, we're going to start now, so you need to stop talking.
@@ -970,4 +968,3 @@ And maybe they've quit the game.
 But with the gamer tag, the server can just like, after the game is finished, just send it with you not worrying about it.
 So I know there are kind of streaming sats protocols coming to Lightning, there's like keysend and stuff, so we might be able to do that in a more open way, but at the moment that's one of the benefits the gamertag gives you, is we can kind of stream payments.
 Also, I kind of think, for games, it's okay if we centralize the sending of 14 sats, you know, it kind of makes sense.
-
