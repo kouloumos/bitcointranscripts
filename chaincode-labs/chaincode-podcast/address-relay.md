@@ -69,7 +69,7 @@ How did you follow up on Bitcoin Core and how did you start working on it?
 
 Speaker 0: 00:02:49
 
-Well, I got interested in this space at first, not so much technical, but trying to understand how Bitcoin works. There was an essay I read that I liked very much and made me feel like I understood Bitcoin better, which was by also a physicist, I think, Michael Nielsen. He had a blog post there. And that was the first time I thought I really understood Bitcoin on a certain level, of course, and went deeper into it. I wanted to really understand how it works at a lower level, at the lowest level, the level of code. And I got interested in Bitcoin Core and started contributing the small thing first. Also, I still had a job at the same time, so I couldn't do this full-time. So I picked some smaller project, reviewed some PR, participated in the review club, which was great, which also started at the same time when I got interested in Bitcoin, and yeah, here I am.
+Well, I got interested in this space at first, not so much technical, but trying to understand how Bitcoin works. There was an essay I read that I liked very much and made me feel like I understood Bitcoin better, which was by also a physicist, I think, 
 
 Speaker 2: 00:03:40
 
