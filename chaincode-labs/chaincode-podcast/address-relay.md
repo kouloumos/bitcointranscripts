@@ -2,6 +2,7 @@
 title: Address Relay
 transcript_by: kouloumos via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Martin-Zumsande-and-Address-Relay---Episode-20-e1if91d
+tags: ["accumulators"]
 speakers: ["Martin Zumsande"]
 categories: ["podcast"]
 date: 2022-05-13
