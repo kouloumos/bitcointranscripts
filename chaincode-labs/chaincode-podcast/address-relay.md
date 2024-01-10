@@ -1,16 +1,14 @@
 ---
-title: "Address Relay"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+title: Address Relay
+transcript_by: kouloumos via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Martin-Zumsande-and-Address-Relay---Episode-20-e1if91d
-tags: []
-speakers: ['Martin Zumsande']
-categories: ['podcast']
+speakers: ["Martin Zumsande"]
+categories: ["podcast"]
 date: 2022-05-13
 ---
-
 Speaker 0: 00:00:00
 
-In Adromain you also have this distinction between the new and the tried tables. So the new tables are for unverified addresses that someone just sent you and you don't know whether they are good, whether there's really a Bitcoin node behind them. And the tried table is addresses that you've been connected to in the past. So at some point, at least in the past, you know, they were your peers at some point.
+In Addrman you also have this distinction between the new and the tried tables. So the new tables are for unverified addresses that someone just sent you and you don't know whether they are good, whether there's really a Bitcoin node behind them. And the tried table is addresses that you've been connected to in the past. So at some point, at least in the past, you know, they were your peers at some point.
 
 Speaker 1: 00:00:19
 
