@@ -12,7 +12,7 @@ In Addrman you also have this distinction between the new and the tried tables. 
 
 Speaker 1: 00:00:19
 
-Right. And you also need to make sure that you get some fresh blood in there, so you don't get sequestered into some part of the network. And then, I don't know, you go on vacation and your node was offline for a week and you come back and nobody's online anymore. You need to constantly keep hearing about new nodes. Hi, Jonas.
+And you also need to make sure that you get some fresh blood in there, so you don't get sequestered into some part of the network. And then, I don't know, you go on vacation and your node was offline for a week and you come back and nobody's online anymore. You need to constantly keep hearing about new nodes. Hi, Jonas.
 
 Speaker 2: 00:00:45
 
