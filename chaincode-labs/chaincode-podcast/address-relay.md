@@ -21,7 +21,7 @@ Hey, Murch. Glad to get you back in the studio before you rush off to London. An
 
 Speaker 1: 00:00:53
 
-Yeah, yeah. We heard a talk by him yesterday already, so we're kind of prepped.
+We heard a talk by him yesterday already, so we're kind of prepped.
 
 Speaker 2: 00:00:57
 
