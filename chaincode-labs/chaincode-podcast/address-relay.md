@@ -5,7 +5,7 @@ media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Martin-Zumsand
 tags: ["accumulators","accumulators"]
 speakers: ["Martin Zumsande"]
 categories: ["podcast"]
-date: 2022-05-13
+date: 2022-05-11
 ---
 Speaker 0: 00:00:00
 
