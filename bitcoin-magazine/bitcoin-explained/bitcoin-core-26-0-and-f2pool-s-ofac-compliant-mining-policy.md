@@ -2,7 +2,6 @@
 title: Bitcoin Core 26.0 (And F2Pool’s OFAC Compliant Mining Policy)
 transcript_by: kouloumos via review.btctranscripts.com
 media: https://bitcoinexplainedpodcast.com/@nado/episodes/episode-85-bitcoin-core-26-0-and-f2pool-s-ofac-compliant-mining-policy-ainlt
-tags: ["mining"]
 speakers: ["Sjors Provoost","Aaron van Wirdum"]
 categories: ["podcast"]
 date: 2023-11-23
@@ -15,8 +14,6 @@ Hello Sjoerd.
 Speaker 1: 00:00:25
 
 What's up?
-Welcome back.
-Thank you.
 
 Speaker 0: 00:00:28
 
