@@ -1,20 +1,12 @@
 ---
 title: "Nesting, ROAST, Half-Aggregation, Adaptor Signatures"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: kouloumos via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Pieter-Wuille-and-Tim-Ruffing---Nesting--ROAST--Half-Aggregation--Adaptor-Signatures-part-2-e1sdgjf
-tags: ['adaptor-signatures']
-speakers: ['Pieter Wuille', 'Tim Ruffing']
-categories: ['podcast']
+tags: ["adaptor-signatures"]
+speakers: ["Pieter Wuille","Tim Ruffing"]
+categories: ["podcast"]
 date: 2022-12-27
 ---
-Speaker 0: 00:00:00
-
-Just as
-
-Speaker 1: 00:00:00
-
-a warning, so don't do this at home.
-
 Speaker 0: 00:00:01
 
 Yes, of course.
