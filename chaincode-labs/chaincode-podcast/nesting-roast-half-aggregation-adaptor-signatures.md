@@ -474,11 +474,10 @@ Speaker 1: 00:31:17
 
 But also on the cryptography side still.
 So you said like you gave this trivial way or a naive way of creating a signature aggregation scheme from a multi-signature scheme.
-And now we have multi-signature schemes and you said like the math will be pretty similar but it's actually, if you look at the specifics of this, you probably wouldn't want to use something based on, let's say, music, or music two, or music one,
+And now we have multi-signature schemes and you said like the math will be pretty similar but it's actually, if you look at the specifics of this, you probably wouldn't want to use something based on, let's say, music, or music two, or music one, and any of these.
 
 Speaker 0: 00:31:45
 
-and any of these.
 Because they're kind of overkill for...
 
 Speaker 1: 00:31:49
@@ -491,11 +490,10 @@ And if we do this in a music style, this key aggregation, then this key aggregat
 So we couldn't batch it together with a signature validation or with a taproot commitment openings.
 So probably there are other signature aggregation schemes that more different from music that would actually allow for fetch validation.
 So yeah, really, it's like, as you say, like you could construct it basically from music, but music is overkill.
-And that's the reason not to
+And that's the reason not to do that.
 
 Speaker 0: 00:33:00
 
-do that.
 The Belaraneva scheme is simpler and would work.
 
 Speaker 1: 00:33:05
