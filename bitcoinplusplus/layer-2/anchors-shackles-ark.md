@@ -12,11 +12,7 @@ A few months ago, I tried to sort of working on a new light and more to address 
 And I've come to realization that these objections, the objections that I had in the past, they're all addressable in the long run.
 I, you know, page DLCs can sold in, same receiving initiative plus proof of payment, but there is still one big problem, the inbound liquidity.
 To me, it's like a non-starter.
-If you're orange billing someone for the first time and you cannot receive, what happens is you get a swap, some ring swap in, and it doesn't scale.
-And to me, if something works 90% of the time, it doesn't work 10%, to me it doesn't work.
-It has to be zero friction.
-So I sort of try to come up with solutions to address these problems.
-And then today I'll be presenting a new sort of alternative Layer 2 protocol.
+sdfsdsdfrt of alternative Layer 2 protocol.
 It all started as a wallet idea, a Lightning idea based on channel factories and all that.
 And it later evolved into a layer two on its own.
 At some point I realized, okay, what I'm building is lightning, but it really is like a new layer two in its core.
