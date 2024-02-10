@@ -2,7 +2,7 @@
 title: "Anchors & Shackles (Ark)"
 transcript_by: kouloumos via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=OBt1nS14Ac4
-tags: ["adaptor-signatures","anonymity-networks","ark","bech32"]
+tags: ["adaptor-signatures","anonymity-networks","ark","bech32","bitcoin-core"]
 categories: ["conference"]
 date: 2023-06-24
 ---
