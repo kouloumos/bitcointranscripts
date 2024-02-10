@@ -1,27 +1,20 @@
 ---
 title: "Anchors & Shackles (Ark)"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: kouloumos via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=OBt1nS14Ac4
-tags: []
-speakers: []
-categories: ['conference']
+tags: ["adaptor-signatures","anonymity-networks","ark","bech32","bitcoin-core","bls-signatures"]
+speakers: ["Adam Gibson","Adam Jonas","Alan Reiner","Alberto Sonnino"]
+categories: ["video"]
 date: 2023-06-24
 ---
-So hey guys, my name is Borat.
-Today I'll be talking about something that I've been working on for the past, let's say, six months or so.
-To give a bit of a background, I started first in a big block sort of camp and then got introduced later to Liquid.
-And I did some covenant R&D on Liquid for about two years, and now I'm recently exploring the Lightning space for about a year.
+
 And as someone who initially comes sort of from that sort of big block camp, I've always had objections towards lightning, mainly around the UX, from backups to interactivity to liquidity problems.
 I've had severe objections.
 A few months ago, I tried to sort of working on a new light and more to address these problems.
 And I've come to realization that these objections, the objections that I had in the past, they're all addressable in the long run.
 I, you know, page DLCs can sold in, same receiving initiative plus proof of payment, but there is still one big problem, the inbound liquidity.
 To me, it's like a non-starter.
-If you're orange billing someone for the first time and you cannot receive, what happens is you get a swap, some ring swap in, and it doesn't scale.
-And to me, if something works 90% of the time, it doesn't work 10%, to me it doesn't work.
-It has to be zero friction.
-So I sort of try to come up with solutions to address these problems.
-And then today I'll be presenting a new sort of alternative Layer 2 protocol.
+sdfsdsdfrt of alternative Layer 2 protocol.
 It all started as a wallet idea, a Lightning idea based on channel factories and all that.
 And it later evolved into a layer two on its own.
 At some point I realized, okay, what I'm building is lightning, but it really is like a new layer two in its core.
