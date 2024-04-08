@@ -11,7 +11,7 @@ Speaker 0: 00:00:00
 
 Chaincode podcast is back.
 Welcome back to the Chaincode podcast.
-I am here with Merch.
+I am here with Murch.
 Hey there.
 And we are back.
 It's been quite a layoff, but we're back in the studio and happy to be here.
