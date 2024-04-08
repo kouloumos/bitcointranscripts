@@ -2,7 +2,7 @@
 title: "Chaincode Decoded: Bech32m"
 transcript_by: kouloumos via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Bech32m---Episode-11-ev1jnc
-tags: ["bech32","segwit","taproot"]
+tags: ["bech32","segwit","taproot","addr-v2"]
 speakers: ["Mark Erhardt","Adam Back","Adam Gibson"]
 categories: ["conference"]
 date: 2021-04-16
