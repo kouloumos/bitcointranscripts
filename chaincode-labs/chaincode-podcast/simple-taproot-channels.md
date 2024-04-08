@@ -1,20 +1,11 @@
 ---
 title: "Simple Taproot Channels"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: kouloumos via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Elle-Mouton--Oliver-Gugger-and-Simple-Taproot-Channels---Episode-33-e2724sl
-tags: ['anchor-outputs', 'cpfp-carve-out', 'ptlc', 'simple-taproot-channels', 'taproot']
-speakers: ['Elle Mouton', 'Oliver Gugger']
-categories: ['podcast']
-summary: "Elle Mouton and Oliver Gugger join us to talk with us about the Simple Taproot Channel proposal."
-episode: 33
 date: 2023-07-17
-additional_resources:
--   title: CPFP carve-out
-    url: https://bitcoinops.org/en/topics/cpfp-carve-out/
--   title: Anchor Outputs
-    url: https://bitcoinops.org/en/topics/anchor-outputs/
--   title: PTLCs
-    url: https://bitcoinops.org/en/topics/ptlc/
+tags: ["anchor-outputs","cpfp-carve-out","ptlc","simple-taproot-channels","taproot"]
+speakers: ["Elle Mouton","Oliver Gugger"]
+categories: ["podcast"]
 ---
 Speaker 0: 00:00:00
 
@@ -22,7 +13,7 @@ Then we get to Gossip 2.0, which is the bigger jump here, which would be instead
 
 Speaker 1: 00:00:15
 
-Okay.
+Okay sir.
 
 Speaker 2: 00:00:19
 
