@@ -19,7 +19,7 @@ additional_resources:
 ---
 Speaker 0: 00:00:18
 
-Live from Utrecht, this is Bitcoin Explained. Sjors, are you ready for Bookshell episode 4 out of 2?
+Live from Utrecht, this is Bitcoin Explained. Sjors, are you ready for Bookshell episode 5 out of 2?
 
 Speaker 1: 00:00:26
 
