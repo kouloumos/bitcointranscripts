@@ -17,6 +17,8 @@ additional_resources:
   - title: 'https://nakamotoinstitute.org/finney/rpow/index.html'
     url: 'https://nakamotoinstitute.org/finney/rpow/index.html'
 ---
+## Chapter Title
+
 Speaker 0: 00:00:18
 
 Live from Utrecht, this is Bitcoin Explained. Sjors, are you ready for Bookshell episode 5 out of 2?
@@ -24,6 +26,8 @@ Live from Utrecht, this is Bitcoin Explained. Sjors, are you ready for Bookshell
 Speaker 1: 00:00:26
 
 Absolutely.
+
+## Chapter Title
 
 Speaker 0: 00:00:27
 
