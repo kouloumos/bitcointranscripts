@@ -1,13 +1,17 @@
 ---
-title: "Hashcash and Bit Gold"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-source_file: https://bitcoinexplainedpodcast.com/audio/@nado/episode-88-hashcash-and-bit-gold-a5cjn.mp3
-media: https://bitcoinexplainedpodcast.com/@nado/episodes/episode-88-hashcash-and-bit-gold-a5cjn
+title: 'Hashcash and Bit Gold'
+transcript_by: 'kouloumos via review.btctranscripts.com'
+source_file: 'https://bitcoinexplainedpodcast.com/audio/@nado/episode-88-hashcash-and-bit-gold-a5cjn.mp3'
+media: 'https://bitcoinexplainedpodcast.com/@nado/episodes/episode-88-hashcash-and-bit-gold-a5cjn'
 tags: []
-speakers: ['Sjors Provoost', 'Aaron van Wirdum']
-categories: ['podcast']
-date: 2024-01-03
-summary: "In this episode of Bitcoin, Explained, Aaron and Sjors discuss two electronic cash projects that predate Bitcoin: Adam Back’s Hashcash and Nick Szabo’s Bit Gold. As detailed in Aaron’s new book, The Genesis Book, these systems introduced design element that were later utilized by Satoshi Nakamoto. Aaron and Sjors explain what these elements are, and how they inspired Bitcoin’s design."
+speakers:
+  - 'Speaker 0'
+  - 'Speaker 1'
+  - 'Speaker 2'
+categories:
+  - 'podcast'
+date: '2024-01-03'
+summary: 'In this episode of Bitcoin, Explained, Aaron and Sjors discuss two electronic cash projects that predate Bitcoin: Adam Back’s Hashcash and Nick Szabo’s Bit Gold. As detailed in Aaron’s new book, The Genesis Book, these systems introduced design element that were later utilized by Satoshi Nakamoto. Aaron and Sjors explain what these elements are, and how they inspired Bitcoin’s design.'
 ---
 Speaker 0: 00:00:18
 
@@ -24,7 +28,7 @@ Speaker 0: 00:00:45
 
 Hardware stuff.
 Shors, do you know what else they have?
-They have the OpenDime, they have the BlockClock, I think, right?
+They have the OpenDime, they have the clock, I think, right?
 
 Speaker 1: 00:00:51
 
@@ -485,7 +489,8 @@ So I suppose you could maybe make it random, but assuming you use a standard alg
 
 Speaker 0: 00:17:45
 
-And you might think- let me give an analogy that I've used, not in the book, actually, I think, but in an article I wrote earlier, it's kind of the difference between, let's say there's a hundred lottery tickets and one person buys 40 tickets and another buys 60.
+And you might think-
+let me give an analogy that I've used, not in the book, actually, I think, but in an article I wrote earlier, it's kind of the difference between, let's say there's a hundred lottery tickets and one person buys 40 tickets and another buys 60.
 So now the person that has 60 has more chance to win 60%.
 But the person that bought 40 still has 40% to win as well.
 While if you take, you know, two cyclists and one of them can ride his bike 60 miles an hour and the other 40 miles, then any time they do a race, the one that can cycle 60 miles an hour will just win like every time.
