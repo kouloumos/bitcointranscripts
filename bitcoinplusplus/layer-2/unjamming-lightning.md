@@ -1,17 +1,24 @@
 ---
-title: "Unjamming Lightning"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-media: https://www.youtube.com/watch?v=S7ZH4hr2FlA
-tags: ['research', 'channel-jamming-attacks']
-speakers: ['Clara Shikhelman']
-categories: ['conference']
-date: 2023-07-01
+title: 'Unjamming Lightning'
+transcript_by: 'kouloumos via review.btctranscripts.com'
+media: 'https://www.youtube.com/watch?v=S7ZH4hr2FlA'
+tags:
+  - 'research'
+  - 'channel-jamming-attacks'
+speakers:
+  - 'Speaker single_speaker'
+categories:
+  - 'conference'
+date: '2023-07-01'
+source_file: 'https://rr2---sn-qxo7rn7r.googlevideo.com/videoplayback?expire=1720037543&ei=R1yFZrqjJOP5sfIP_aaJ0As&ip=34.82.163.149&id=o-AA_EZwsEZnY9d0m7CummCyYR4ehns4cLHe7pPyG7MHDa&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=jY&mm=31%2C26&mn=sn-qxo7rn7r%2Csn-a5msen7z&ms=au%2Conr&mv=m&mvi=2&pl=20&bui=AbKP-1M2_XiWipXglcK8nFxrjK6A_JfCiP1x6RRcDR4gcjUP1HAxbPmmLsNU-H68bTy-OgaMOtzjj8NK&spc=NO7bAWTiIFsJylgU0gsJZx5-TbRYtjFJ0hUCO-vQoPv_H-8jRVlVDMFsYO_V&vprv=1&svpuc=1&mime=video%2Fmp4&ns=WO079gI-qAtyEnQAHvDk3TYQ&rqh=1&cnr=14&ratebypass=yes&dur=1803.354&lmt=1697531430317682&mt=1720015525&fvip=2&c=WEB&sefc=1&txp=6218224&n=-WBv7WcXoPZL-A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgSGF3Ts0OO0a35w9Do2FGpIVM90O01RbtvVtn9e3HeTsCICoge3cRj8SlPfoyvE-9ejwbIgBbpqOQUWJjMYO8oYqF&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHlkHjAwRQIhAPu1SqTsK9WS1vX_aSBKGojeCi8nDkEHQYSyRA8qghntAiB6rRzaowuvre1yJV4ulA0TMMTDJkKoQBzwbDzTcfKvnw%3D%3D'
 ---
+Speaker single_speaker: 00:00:06
+
 Okay, so let's talk some Lightning.
 So I'm Klara, I'm from ChainCode Labs, and I want to talk to you about an ongoing project that tries to solve the jamming problem in the Lightning Network.
 So we'll start from what it is and then we're trying to get it.
 So a very quick reminder to all of you about Lightning Network routing.
-Let's say Alice wants to route by Bob to Charlie and Grab HTC's for atomic swaps the way it goes pretty much Alice talks let's say a hundred satoshis between herself and Bob telling him if you'll get some secret it will be all yours and then the instructions to Bob that the next hop is Charlie.
+Let's say Alice wants to route by Bob to Charlie and Grab HTLC's for atomic swaps the way it goes pretty much Alice talks let's say a hundred satoshis between herself and Bob telling him if you'll get some secret it will be all yours and then the instructions to Bob that the next hop is Charlie.
 Bob locks again funds between himself and Charlie saying okay give me the secret you'll get the funds.
 Charlie gives the secret, takes the funds, Bob with the secret goes to Alice Claiming the funds everything is fantastic Bob also can charge a fee when this succeeds.
 It's not in the animation, but trust me it happens Okay, so Everything is fun and great But what happens when Charlie doesn't give the secret?
