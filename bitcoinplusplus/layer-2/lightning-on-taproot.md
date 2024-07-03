@@ -1,12 +1,19 @@
 ---
-title: "Lightning on Taproot"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-media: https://www.youtube.com/watch?v=E_z4hjvVzoQ
-tags: ['lightning', 'taproot']
-speakers: []
-categories: ['conference']
-date: 2023-07-18
+title: 'Lightning on Taproot'
+transcript_by: 'kouloumos via review.btctranscripts.com'
+media: 'https://www.youtube.com/watch?v=E_z4hjvVzoQ'
+tags:
+  - 'lightning'
+  - 'taproot'
+speakers:
+  - 'Speaker single_speaker'
+categories:
+  - 'conference'
+date: '2023-07-18'
+source_file: 'https://rr1---sn-qxo7rn7k.googlevideo.com/videoplayback?expire=1720037337&ei=eVuFZs76Bef4sfIP4MChmAo&ip=34.82.163.149&id=o-ALhIt9VFoq24wVc091vViIflU_p2A3du4Nk5b5FQr59n&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=jc&mm=31%2C29&mn=sn-qxo7rn7k%2Csn-qxoedn7k&ms=au%2Crdu&mv=m&mvi=1&pl=20&pcm2=no&bui=AbKP-1Mh3uY3A5S_Pgm1iNYLPXdGqbAXgvkWP2A-_mDJI28ItN5Sotr0kJYHLNnFZRJAUOdf__JSqRGJ&spc=NO7bAb_COrQRtSFFRSz650i9ujJ7uSskdsZ4kGLWCYon3ai4KEShfKTpjpCD&vprv=1&svpuc=1&mime=video%2Fmp4&ns=e4FRP1fc2PwLrXdmWdGIoJAQ&rqh=1&cnr=14&ratebypass=yes&dur=3328.510&lmt=1697184778896810&mt=1720015287&fvip=5&c=WEB&sefc=1&txp=6218224&n=VLjiqu2ifoSoQg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgA8IArkJ5Ny-nzVm0dwZghQtRQDsJZLdGn0ISEp6rWnQCIQCACg7XvVxyfZk5G3MR5gdL2hVWAQPnLIywQkdMF8Pj2g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHlkHjAwRQIgE1RAP5GT-dxGoYi0RxyM0Bz9Uq3lhSqXtvc_fHWwoUMCIQDF5b_aUAPy7UQ3hnzYlW1Nv2AmxWKaNuiffw_Y-Pq4jA%3D%3D'
 ---
+Speaker single_speaker: 00:00:04
+
 My name is Arik.
 I work at Spiral.
 And most recently I've been working on adding support for taproot channels.
@@ -14,7 +21,9 @@ At least I try to work on that, but I'm getting pulled back into Swift bindings.
 And this presentation is supposed to be about why the taproot spec is laid out the way it is.
 What are some of the motivations, the constraints, limitations that are driving the design.
 And I wanna really dig deep into the math that some of the vulnerabilities that we're trying to avoid as well as how we're solving those issues.
-So first of all, obviously we know that Haproot has not been active for a while, but why are we actually bothering with modifying the way that lightning channels are opened such that we can have lightning channels operate on half-route.
+So first of all, obviously we know that Taproot has not been active for a while, but why are we actually bothering with modifying the way that lightning channels are opened such that we can have lightning channels operate on half-route.
+
+
 I guess I should have asked this question before showing this slide, but let me just go back and see if the audience has any suggestions they want to know here.
 Is there privacy?
 Great.
