@@ -1,15 +1,18 @@
 ---
-title: "The Politics of Bitcoin Development"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-media: https://www.youtube.com/watch?v=NrrD6ufaSrM
+title: 'The Politics of Bitcoin Development'
+transcript_by: 'kouloumos via review.btctranscripts.com'
+media: 'https://www.youtube.com/watch?v=NrrD6ufaSrM'
 tags: []
-speakers: ['Christian Decker']
+speakers:
+  - 'Speaker 0'
+  - 'Speaker 1'
 categories: []
-date: 2024-06-11
+date: '2024-06-11'
+source_file: 'https://rr5---sn-5ualdnsy.googlevideo.com/videoplayback?expire=1727205102&ei=jbryZv6JOc-q0_wPkNLR6Qw&ip=104.129.24.107&id=o-ACpyrY4RlBP_ogr_OFVggarP0hMmdqpY9R9SHeX1jSic&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=Zx&mm=31%2C26&mn=sn-5ualdnsy%2Csn-ab5sznz6&ms=au%2Conr&mv=m&mvi=5&pl=23&initcwndbps=2182500&bui=AXLXGFTiTIiX9RS1xJ4Z-_G1rmYlze-Qy1qt35SnvOZs4vOt_t5JH9oVXGL3A8K8E7Un2kJRDyOyyvrL&spc=54Mbxcha2DB72u7_JADonwKFg2d38u1Nj0taIXCwMS88xAAp4oPHolo&vprv=1&svpuc=1&mime=video%2Fmp4&ns=p_yv1E8qg_9ZJWRmLzAy8JIQ&rqh=1&gir=yes&clen=28532661&ratebypass=yes&dur=707.976&lmt=1718131947265547&mt=1727183120&fvip=2&c=WEB_CREATOR&sefc=1&txp=6309224&n=hME6t43CSWmKzA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhALst3Up2aNtWmTD82AE6nGzR_PztAMnTaKaSZnYRc6hUAiEA4vEJ5hjOHZthf82N2Pp8fvQyNcYkkLssrg_yuOJlHw8%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ABPmVW0wRQIhANJ2nZNO8vRgP9CUN8VhgNoKVdpumYcj2GRDCzr_T5kHAiBIBhRozVdIpwukw6VErR7e6gFRJNL_-IXL3L7GrPB-Hg%3D%3D&pot=MnQiZpEk2_UgmCJeFkLIR94HrPB924sRwZDF-ZABf-zQWuKuNWfBUUkbO3tq1v1f3a7ns96E86ENEyULdlCEowcRsUHuBnKj9QiBMbVRzXZRpuBpokb-_bC8ztnaqsIgMvLMVEdz4VI_CZmp_BZ8zwFxI9uChQ%3D%3D&host=rr5---sn-5ualdnsy.googlevideo.com'
 ---
 ## Introduction and Rusty's Proposal
 
-Speaker 0: 00:00:01
+Speaker 0: 00:00:00
 
 Hi everybody, I'm Shinobi from Bitcoin Magazine and I'm sitting down here with Christian Jecker from Blockstream.
 
@@ -19,7 +22,7 @@ I am.
 
 Speaker 0: 00:00:08
 
-So Rusty dropped an atom bomb yesterday with his proposal to turn all the things back on just with the kind of VerOps budget analogous to the SigOps budget to kind of rein in the denial of service risks as just a path forward given that everybody's spent the last few years fighting over their narrow little change they want to get in.
+So Rusty dropped an atom bomb yesterday with his proposal to turn all the things back on just with the kind of fsdf budget analogous to the SigOps budget to kind of rein in the denial of service risks as just a path forward given that everybody's spent the last few years fighting over their narrow little change they want to get in.
 How do you feel about this potentially as a path moving forward?
 
 Speaker 1: 00:00:43
